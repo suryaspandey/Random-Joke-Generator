@@ -21,6 +21,9 @@ git clone https://github.com/suryaspandey/Random-Joke-Generator/
 1. Open the project in your browser.
 2. Click the "Get Joke" button to fetch and display a random joke along with its category.
 
+## Technologies Used
+   _HTML, CSS, JavaScript_
+
 ## API Used
 
 The project utilizes the [Random Joke API](https://v2.jokeapi.dev/joke/) to retrieve random jokes and their categories.
