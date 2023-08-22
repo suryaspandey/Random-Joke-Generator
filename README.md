@@ -1,5 +1,7 @@
 # Random-Joke-Generator
 A simple JavaScript project that generates and displays a random joke when a button is clicked. The project also provides the category of the joke retrieved from an API.
+
+Hosted Link: https://eclectic-empanada-8406df.netlify.app/
 ## Features
 
 - Clicking the "Get Joke" button fetches and displays a random joke.
